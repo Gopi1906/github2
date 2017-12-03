@@ -1,2 +1,2 @@
 # github2
-2nd time learning
+2nd time leaning purpose
